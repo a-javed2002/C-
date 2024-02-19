@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\bin\Debug\net6.0\intermediate.exe
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\bin\Debug\net6.0\intermediate.deps.json
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\bin\Debug\net6.0\intermediate.runtimeconfig.json
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\bin\Debug\net6.0\intermediate.dll
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\bin\Debug\net6.0\intermediate.pdb
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.AssemblyInfo.cs
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.dll
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\refint\intermediate.dll
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.pdb
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\intermediate.genruntimeconfig.cache
+C:\Users\ABDULLAH JAWED\source\repos\intermediate\intermediate\obj\Debug\net6.0\ref\intermediate.dll

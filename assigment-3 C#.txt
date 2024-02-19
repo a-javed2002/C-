@@ -1,0 +1,90 @@
+1)Get
+2)set the value
+3)Yes, in C#, you can declare a property as private. When you declare a property as private, it can only be accessed within the same class and cannot be accessed from outside the class.
+4)No
+5)Yes, in C#, properties can be overridden using the override keyword, just like methods can be overridden.
+
+When you override a property, you provide a new implementation for the property in a derived class. The overridden property must have the same name, return type, and access level as the base class property.
+6)No, static properties cannot access non-static members of a class directly in C#. This is because static members are associated with the class itself, rather than with a particular instance of the class, while non-static members are associated with specific instances of the class.
+
+However, you can access non-static members of a class from a static property by creating an instance of the class and then accessing the non-static members through that instance.
+
+7)
+public class MyClass
+{
+    public int MyProperty { get; set; }
+}
+
+8)
+class MyClass
+{
+    private int myValue;
+
+    public int MyProperty { get; set; }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        MyClass myObject = new MyClass()
+        {
+            MyProperty = 42
+        };
+        Console.WriteLine("MyProperty value is: " + myObject.MyProperty);
+    }
+}
+
+9)
+Access control: Properties can be used to control access to a private field, allowing you to restrict or validate the values that are set or returned. Normal fields, on the other hand, are always accessible to any code that has access to the object.
+
+Encapsulation: Properties provide a level of encapsulation by hiding the implementation details of how the value is stored or computed. Normal fields expose their internal state, which can be a problem if the value needs to be changed in the future.
+
+Computed values: Properties can be used to compute a value based on other fields or external data, whereas normal fields store a single value.
+
+Usage in Interfaces: Interfaces can define properties but not fields.
+
+public class Person
+{
+    private int age;
+    public int Age
+    {
+        get { return age; }
+        set { age = value < 0 ? 0 : value; }
+    }
+
+    public int AgeField;
+}
+
+static void Main(string[] args)
+{
+    Person p = new Person();
+    p.Age = -10; // age will be set to 0
+    p.AgeField = -10; // ageField will be set to -10
+}
+
+10)
+static void Main(string[] args)
+        {
+            Marks m1=new Marks();
+            m1.Batch = "2110C1";
+
+            Console.WriteLine(m1.Batch);
+
+        }
+
+public abstract class Student
+    {
+        public abstract string Batch { get; set; }
+    }
+
+    public class Marks : Student
+    {
+        private string batch;
+
+        public override string Batch
+        {
+            set { batch = value; }
+            get { return batch; }
+        }
+    }

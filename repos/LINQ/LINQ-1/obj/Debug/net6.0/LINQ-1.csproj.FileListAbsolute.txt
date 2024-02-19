@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\bin\Debug\net6.0\LINQ-1.exe
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\bin\Debug\net6.0\LINQ-1.deps.json
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\bin\Debug\net6.0\LINQ-1.runtimeconfig.json
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\bin\Debug\net6.0\LINQ-1.dll
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\bin\Debug\net6.0\LINQ-1.pdb
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.AssemblyInfo.cs
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.dll
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\refint\LINQ-1.dll
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.pdb
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\LINQ-1.genruntimeconfig.cache
+C:\Users\ABDULLAH JAWED\source\repos\LINQ\LINQ-1\obj\Debug\net6.0\ref\LINQ-1.dll

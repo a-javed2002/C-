@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\bin\Debug\net6.0\C-Sharp-intro.exe
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\bin\Debug\net6.0\C-Sharp-intro.deps.json
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\bin\Debug\net6.0\C-Sharp-intro.runtimeconfig.json
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\bin\Debug\net6.0\C-Sharp-intro.dll
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\bin\Debug\net6.0\C-Sharp-intro.pdb
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.AssemblyInfo.cs
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.dll
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\refint\C-Sharp-intro.dll
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.pdb
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\C-Sharp-intro.genruntimeconfig.cache
+C:\Users\ABDULLAH JAWED\source\repos\C-Sharp-intro\C-Sharp-intro\obj\Debug\net6.0\ref\C-Sharp-intro.dll

@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\bin\Debug\net6.0\after-intro.exe
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\bin\Debug\net6.0\after-intro.deps.json
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\bin\Debug\net6.0\after-intro.runtimeconfig.json
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\bin\Debug\net6.0\after-intro.dll
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\bin\Debug\net6.0\after-intro.pdb
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.AssemblyInfo.cs
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.dll
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\refint\after-intro.dll
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.pdb
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\after-intro.genruntimeconfig.cache
+C:\Users\ABDULLAH JAWED\source\repos\after-intro-lecture\after-intro\obj\Debug\net6.0\ref\after-intro.dll

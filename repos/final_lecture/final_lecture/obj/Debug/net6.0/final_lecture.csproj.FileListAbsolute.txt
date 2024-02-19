@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\bin\Debug\net6.0\final_lecture.exe
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\bin\Debug\net6.0\final_lecture.deps.json
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\bin\Debug\net6.0\final_lecture.runtimeconfig.json
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\bin\Debug\net6.0\final_lecture.dll
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\bin\Debug\net6.0\final_lecture.pdb
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.AssemblyInfo.cs
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.dll
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\refint\final_lecture.dll
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.pdb
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\final_lecture.genruntimeconfig.cache
+C:\Users\ABDULLAH JAWED\source\repos\final_lecture\final_lecture\obj\Debug\net6.0\ref\final_lecture.dll

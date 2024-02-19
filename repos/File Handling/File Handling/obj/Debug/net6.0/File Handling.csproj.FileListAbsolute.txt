@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\bin\Debug\net6.0\File Handling.exe
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\bin\Debug\net6.0\File Handling.deps.json
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\bin\Debug\net6.0\File Handling.runtimeconfig.json
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\bin\Debug\net6.0\File Handling.dll
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\bin\Debug\net6.0\File Handling.pdb
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.AssemblyInfo.cs
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.dll
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\refint\File Handling.dll
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.pdb
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\File Handling.genruntimeconfig.cache
+C:\Users\ABDULLAH JAWED\source\repos\File Handling\File Handling\obj\Debug\net6.0\ref\File Handling.dll
